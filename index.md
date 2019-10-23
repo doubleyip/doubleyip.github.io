@@ -6,7 +6,14 @@
 
 ### League of Legends MapChecker
 
+[Front End JavaScript](https://github.com/doubleyip/LeagueMapChecker)
+[Back End NodeJS](https://github.com/doubleyip/apicallforlolmc)
+
+Capstone Project Collaboration with Ramin Ikhiilov, Billy Lin, and Dean Garofalo
+
 ### Latent Semantic Analysis
+
+[Python App](https://github.com/doubleyip/TensorflowProject)
 
 ### Stock Portfolio App
 
