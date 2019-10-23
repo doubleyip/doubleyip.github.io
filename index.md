@@ -1,6 +1,6 @@
 # Simon Yip's Portfolio
 
-## Summary
+## About
 
 ## Projects
 
@@ -23,7 +23,7 @@
 ** Stock Portfolio Buying/Selling App for NYC Tech Talent Pipeline
 
 * NodeJS
-** Back-End server for League of Legends MapChecker App
+** Back End server for League of Legends MapChecker App
 
 * Python
 ** Latent Semantics Analysis Project for Natural Language Processing Course
@@ -39,5 +39,13 @@
 ** Database for Stock Portfolio App for NYC Tech Talent Pipeline
 
 * Heroku Cloud
-** Platform used to deploy League of Legends MapChecker App
+** Platform used to deploy Front End and Back End for League of Legends MapChecker App
 
+## Links
+
+https://github.com/doubleyip
+https://www.linkedin.com/in/simon-yip-926789142/
+
+## Contact Me
+
+syip428@gmail.com
