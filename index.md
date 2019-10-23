@@ -39,12 +39,12 @@
 * Heroku Cloud
 	* Platform used to deploy Front End and Back End for League of Legends MapChecker App
 
-## Links
+# Links
 
 [Github](https://github.com/doubleyip)
 
 [LinkedIn](https://www.linkedin.com/in/simon-yip-926789142/)
 
-## Contact Me
+# Contact Me
 
 syip428@gmail.com
