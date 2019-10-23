@@ -8,7 +8,7 @@
 
 ### Stock Portfolio App
 
-## Programming Languages
+# Programming Languages
 
 * C++
 	* Majority of CS Coursework at Hunter College
@@ -41,9 +41,9 @@
 
 ## Links
 
-https://github.com/doubleyip
+[LinkedIn](https://github.com/doubleyip)
 
-https://www.linkedin.com/in/simon-yip-926789142/
+[github](https://www.linkedin.com/in/simon-yip-926789142/)
 
 ## Contact Me
 
