@@ -2,22 +2,31 @@
 
 # About
 
+Aspiring Software Engineer with a passion for solving complex problems through the use of topics such as Algorithms and Machine Learning. Self-starter with a drive to use the most efficient technology stack or tools for the job and the adaptability to learn them straightaway. Specializes in back-end technology such as C++, Python and TensorFlow, while also having experience in front-end development.
+
 # Projects
 
-### League of Legends MapChecker
-
-[Front End JavaScript](https://github.com/doubleyip/LeagueMapChecker)
-[Back End NodeJS](https://github.com/doubleyip/apicallforlolmc)
+## [League of Legends MapChecker](./lolmc.md)
 
 Capstone Project Collaboration with Ramin Ikhiilov, Billy Lin, and Dean Garofalo
 
-### Latent Semantic Analysis
+[Front End JavaScript](https://github.com/doubleyip/LeagueMapChecker)
+
+[Back End NodeJS](https://github.com/doubleyip/apicallforlolmc)
+
+
+
+## [Latent Semantic Analysis](./lms.md)
+
+Final Project for Natural Language Processing (Language Tools) Course
 
 [Python App](https://github.com/doubleyip/TensorflowProject)
 
-### Stock Portfolio App
 
-# Programming Languages
+
+## Stock Portfolio App
+
+# Programming Languages and Tech Stacks
 
 * C++
 	* Majority of CS Coursework at Hunter College
