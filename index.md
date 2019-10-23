@@ -19,7 +19,7 @@
 ** Spring MVC + J2EE Training by Quintrix Solutions Inc.
 
 * JavaScript + HTML/CSS
-** FrontEnd for League of Legends MapChecker App
+** Front End for League of Legends MapChecker App Capstone Project
 ** Stock Portfolio Buying/Selling App for NYC Tech Talent Pipeline
 
 * NodeJS
@@ -37,4 +37,7 @@
 * MySQL
 ** Database for League of Legends MapChecker App
 ** Database for Stock Portfolio App for NYC Tech Talent Pipeline
+
+* Heroku Cloud
+** Platform used to deploy League of Legends MapChecker App
 
