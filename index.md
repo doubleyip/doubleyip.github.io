@@ -1,4 +1,4 @@
-![Profile Picture](/images/pfp.png =200x200)
+<img src="/images/pfp.png" width="200" height="200">
 
 # About
 
