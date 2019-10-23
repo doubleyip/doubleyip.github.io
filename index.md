@@ -1,3 +1,5 @@
+![Profile Picture](/images/pfp.png)
+
 # About
 
 # Projects
@@ -14,7 +16,7 @@
 	* Majority of CS Coursework at Hunter College
 
 * Java
-	* Spring MVC + J2EE Training by Quintrix Solutions Inc.
+	* Spring MVC,J2EE and Oracle Database Training by Quintrix Solutions Inc.
 
 * JavaScript + HTML/CSS
 	* Front End for League of Legends MapChecker App Capstone Project
