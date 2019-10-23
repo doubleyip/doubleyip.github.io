@@ -41,9 +41,9 @@
 
 ## Links
 
-[LinkedIn](https://github.com/doubleyip)
+[Github](https://github.com/doubleyip)
 
-[github](https://www.linkedin.com/in/simon-yip-926789142/)
+[LinkedIn](https://www.linkedin.com/in/simon-yip-926789142/)
 
 ## Contact Me
 
