@@ -1,8 +1,6 @@
-# Simon Yip's Portfolio
+# About
 
-## About
-
-## Projects
+# Projects
 
 ### League of Legends MapChecker
 
@@ -13,33 +11,33 @@
 ## Programming Languages
 
 * C++
-** Majority of CS Coursework at Hunter College
+	* Majority of CS Coursework at Hunter College
 
 * Java
-** Spring MVC + J2EE Training by Quintrix Solutions Inc.
+	* Spring MVC + J2EE Training by Quintrix Solutions Inc.
 
 * JavaScript + HTML/CSS
-** Front End for League of Legends MapChecker App Capstone Project
-** Stock Portfolio Buying/Selling App for NYC Tech Talent Pipeline
+	* Front End for League of Legends MapChecker App Capstone Project
+	* Stock Portfolio Buying/Selling App for NYC Tech Talent Pipeline
 
 * NodeJS
-** Back End server for League of Legends MapChecker App
+	* Back End server for League of Legends MapChecker App
 
 * Python
-** Latent Semantics Analysis Project for Natural Language Processing Course
+	* Latent Semantics Analysis Project for Natural Language Processing Course
 
 * LISP
-** Mastermind project for Artificial Intelligence Course
+	* Mastermind project for Artificial Intelligence Course
 
 * C
-** Various projects for Unix Tools and Computer Architecture
+	* Various projects for Unix Tools and Computer Architecture
 
 * MySQL
-** Database for League of Legends MapChecker App
-** Database for Stock Portfolio App for NYC Tech Talent Pipeline
+	* Database for League of Legends MapChecker App
+	* Database for Stock Portfolio App for NYC Tech Talent Pipeline
 
 * Heroku Cloud
-** Platform used to deploy Front End and Back End for League of Legends MapChecker App
+	* Platform used to deploy Front End and Back End for League of Legends MapChecker App
 
 ## Links
 
