@@ -1,4 +1,4 @@
-![Profile Picture](/images/pfp.png)
+![Profile Picture](/images/pfp.png =200x200)
 
 # About
 
