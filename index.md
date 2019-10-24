@@ -3,6 +3,9 @@
 # About
 
 Aspiring Software Engineer with a passion for solving complex problems through the use of topics such as Algorithms and Machine Learning. Self-starter with a drive to use the most efficient technology stack or tools for the job and the adaptability to learn them straightaway. Specializes in back-end technology such as C++, Python and TensorFlow, while also having experience in front-end development.
+Currently, I am excited to become a Fullstack Engineer and eventually dwelve into the realm of developing Artifical Intelligence. 
+
+I have a Bachelor's Degree with a Major in Computer Science and a minor in Mathematics from CUNY Hunter College.
 
 # Projects
 
@@ -10,17 +13,14 @@ Aspiring Software Engineer with a passion for solving complex problems through t
 
 Capstone Project Collaboration with Ramin Ikhiilov, Billy Lin, and Dean Garofalo
 
-[Front End JavaScript](https://github.com/doubleyip/LeagueMapChecker)
-
-[Back End NodeJS](https://github.com/doubleyip/apicallforlolmc)
-
+![LoLMC example image](/images/lolmclanding.png)
 
 
 ## [Latent Semantic Analysis](./lms.md)
 
 Final Project for Natural Language Processing (Language Tools) Course
 
-[Python App](https://github.com/doubleyip/TensorflowProject)
+
 
 
 
