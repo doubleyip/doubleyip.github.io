@@ -11,9 +11,9 @@ This information is meant to let users review past games and analyze their resul
 
 ### What is League of Legends
 
-League of Legends is a 10 player MOBA (Multiplayer Online Battle Arena) with 5 players on each side.
+League of Legends is a 10 player MOBA (Multiplayer Online Battle Arena) with 5 players piloting different "champions" on each side.
 The goal of the game is to destroy the enemy nexus and there are various objectives each teams needs to take before they can attack the nexus.
-Taking these objectives and killing other players gives gold which players can use to buy items to make themselves or their team stronger.
+Taking these objectives and killing other champions gives gold which players can use to buy items to make themselves or their team stronger.
 
 ### How does the app work?
 
