@@ -1,1 +1,1 @@
-# Latent Semantic Analysis
+# League of Legends MapChecker
