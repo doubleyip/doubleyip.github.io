@@ -3,7 +3,7 @@
 # About
 
 Aspiring Software Engineer with a passion for solving complex problems through the use of topics such as Algorithms and Machine Learning. Self-starter with a drive to use the most efficient technology stack or tools for the job and the adaptability to learn them straightaway. Specializes in back-end technology such as C++, Python and TensorFlow, while also having experience in front-end development.
-Currently, I am excited to become a Fullstack Engineer and eventually dwelve into the realm of developing Artifical Intelligence. 
+Currently, I am excited to become a Fullstack Engineer and one day hope to develop apps using Artifical Intelligence, Natural Language Process and Machine Learning. 
 
 I have a Bachelor's Degree with a Major in Computer Science and a minor in Mathematics from CUNY Hunter College.
 
