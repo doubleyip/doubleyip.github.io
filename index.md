@@ -16,7 +16,7 @@ Capstone Project Collaboration with Ramin Ikhiilov, Billy Lin, and Dean Garofalo
 ![LoLMC example image](/images/lolmclanding.png)
 
 
-## [Latent Semantic Analysis](./lms.md)
+## [Latent Semantic Analysis](./lsa.md)
 
 Final Project for Natural Language Processing (Language Tools) Course
 
