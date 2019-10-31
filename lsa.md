@@ -36,4 +36,8 @@ the more similar the sentences are. For example, two exact sentences will result
 
 ### How to use the Latent Semantic Analysis App
 
-Clone the repository [here](https://github.com/doubleyip/TensorflowProject) and run the word2vec.py file.
+Clone the repository [here](https://github.com/doubleyip/TensorflowProject) and run the word2vec.py file. Make sure to [install Tensorflow](https://www.tensorflow.org/install/pip)
+, numpy and matplotlib on your machine as well. When you run the file, the app will automatically start training the model and generate a word embedding chart.
+After the training is completed, you will be prompted to enter a pair of sentences to calculate the cosine difference between them.
+
+
