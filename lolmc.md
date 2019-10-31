@@ -19,7 +19,7 @@ Taking these objectives and killing other champions gives gold which players can
 
 The LoLMC App takes data from Riot Games' API and extracts game information when given user name and region.
 The Front End uses HTML/CSS and JavaScript with Bootstrap to organize and display game information including KDA (Kills/Deaths/Assists ratio),
-CS (Creep Score) and Win rate. Some of this information is displayed as charts and graphs using the D3 framework. 
+CS (Creep Score) and Win rate. Some of this information is displayed as charts and graphs using the D3 and Chart.js frameworks. 
 
 ![Profile Page1](/images/pfpage1.png)
 ![Profile Page2](/images/pfpage2.png)
