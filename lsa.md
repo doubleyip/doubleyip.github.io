@@ -41,3 +41,5 @@ Clone the repository [here](https://github.com/doubleyip/TensorflowProject) and 
 After the training is completed, you will be prompted to enter a pair of sentences to calculate the cosine difference between them.
 
 
+
+[Home](https://doubleyip.github.io)

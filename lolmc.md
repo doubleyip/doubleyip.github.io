@@ -39,3 +39,7 @@ User accounts are created and accessed using PHP for SQL calls to our MySQL data
 My role in the project was implementing the NodeJS server as well as the database. The NodeJS server used Express to streamline the process
 of taking information from Riot's API and rendering it to our app. I used the Heroku Cloud to deploy both the actual app as well as the NodeJS server
 to run the app. I also worked with the team to test and fix various bugs including overflowing decimals and other HTML/CSS/JavaScript display errors.
+
+
+
+[Home](https://doubleyip.github.io)
