@@ -1,6 +1,6 @@
 # Stock Portfolio App
 
-[Github Link](https://github.com/doubleyip/TTP-FS/blob/master/server.js)
+[Github Link](https://github.com/doubleyip/TTP-FS)
 
 ### About the Stock Portfolio App
  
