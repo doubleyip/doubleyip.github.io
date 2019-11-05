@@ -24,7 +24,12 @@ Final Project for Natural Language Processing (Language Tools) Course
 
 
 
-## Stock Portfolio App
+## [Stock Portfolio App](./stockport.md)
+
+Basic web app that allows users to buy and sell stocks in real time using the [IEX Ap](ihttps://iexcloud.io/docs/api/)
+
+
+
 
 # Programming Languages and Tech Stacks
 
