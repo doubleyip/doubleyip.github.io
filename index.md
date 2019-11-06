@@ -61,14 +61,14 @@ Basic web app that allows users to buy and sell stocks in real time using the [I
 # Web Technologies and Frameworks
 
 <img src="/images/icons/html5-plain-wordmark.svg" width="100" height="100"><img src="/images/icons/css3-plain-wordmark.svg" width="100" height="100">
-<img src="/images/icons/heroku-plain-wordmark.svg" width="100" height="100">
 <img src="/images/icons/nodejs-plain-wordmark.svg" width="100" height="100">
+<img src="/images/icons/heroku-plain-wordmark.svg" width="100" height="100">
 
 * HTML/CSS
 	* Front End for League of Legends MapChecker App Capstone Project
 	* Stock Portfolio Buying/Selling App for NYC Tech Talent Pipeline
 
-* NodeJS
+* NodeJS + Express
 	* Back End server for League of Legends MapChecker App
 	* Stock Portfolio Buying/Selling App for NYC Tech Talent Pipeline
 
