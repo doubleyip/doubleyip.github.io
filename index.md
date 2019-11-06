@@ -36,25 +36,24 @@ Basic web app that allows users to buy and sell stocks in real time using the [I
 <img src="/images/icons/cplusplus-plain.svg" width="100" height="100"><img src="/images/icons/c-plain.svg" width="100" height="100">
 <img src="/images/icons/java-original-wordmark.svg" width="100" height="100">
 <img src="/images/icons/javascript-plain.svg" width="100" height="100">
-<img src="/images/icons/html5-plain-wordmark.svg" width="100" height="100">
-<img src="/images/icons/css3-plain-wordmark.svg" width="100" height="100">
 <img src="/images/icons/python-original-wordmark.svg" width="100" height="100">
-<img src="/images/icons/heroku-plain-wordmark.svg" width="100" height="100">
-
-
 
 * C++
 	* Majority of CS Coursework at Hunter College
 
-* Java
-	* Spring MVC,J2EE and Oracle Database Training by Quintrix Solutions Inc.
+* C
+	* Various projects for Unix Tools and Computer Architecture courses
 
-* JavaScript + HTML/CSS
+* Java
+	* Spring MVC and 2EE and Oracle Database Training by Quintrix Solutions Inc.
+
+* JavaScript
 	* Front End for League of Legends MapChecker App Capstone Project
 	* Stock Portfolio Buying/Selling App for NYC Tech Talent Pipeline
 
 * NodeJS
 	* Back End server for League of Legends MapChecker App
+	* Stock Portfolio Buying/Selling App for NYC Tech Talent Pipeline
 
 * Python
 	* Latent Semantics Analysis Project for Natural Language Processing Course
@@ -62,19 +61,31 @@ Basic web app that allows users to buy and sell stocks in real time using the [I
 * LISP
 	* Mastermind project for Artificial Intelligence Course
 
-* C
-	* Various projects for Unix Tools and Computer Architecture
+
+# Web Technologies and Frameworks
+
+<img src="/images/icons/html5-plain-wordmark.svg" width="100" height="100"><img src="/images/icons/css3-plain-wordmark.svg" width="100" height="100">
+<img src="/images/icons/heroku-plain-wordmark.svg" width="100" height="100">
+
+* HTML/CSS
+	* Front End for League of Legends MapChecker App Capstone Project
+	* Stock Portfolio Buying/Selling App for NYC Tech Talent Pipeline
 
 * Heroku Cloud
 	* Platform used to deploy Front End and Back End for League of Legends MapChecker App
 
+
 # Database Management
 
-<img src="/images/icons/oracle-original.svg" width="100" height="100"><img src="/images/icons/mysql-plain-wordmark.svg" width="100" height="100">
+<img src="/images/icons/mysql-plain-wordmark.svg" width="100" height="100"><img src="/images/icons/oracle-original.svg" width="100" height="100">
 
 * MySQL
 	* Database for League of Legends MapChecker App
 	* Database for Stock Portfolio App for NYC Tech Talent Pipeline
+	
+* Oracle
+	* Used with JDBC and Spring MVC framework, Training by Quintrix Solutions Inc.
+
 
 # Links
 
