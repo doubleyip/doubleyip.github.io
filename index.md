@@ -61,8 +61,8 @@ Developed for the final interview process for the NYC Tech Talent Pipeline
 
 
 # Links
-<a href="https://www.github.com/doubleyip/"><img src="/images/icons/github-icon-white" width="50" height="50" alt="github">
-<a href="https://www.linkedin.com/in/simon-yip-926789142/"><img src="/images/icons/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
+<a href="https://www.github.com/doubleyip"><img src="/images/icons/github-icon-white.jpg" width="50" height="50" alt="github">
+<a href="https://www.linkedin.com/in/simon-yip-926789142"><img src="/images/icons/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
 
 
 # Contact Me
