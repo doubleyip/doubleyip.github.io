@@ -56,7 +56,7 @@ Basic web app that allows users to buy and sell stocks in real time using the [I
 
 
 # Links
-<a href="https://github.com/doubleyip/"><img src="/images/icons/github-original.svg" width="100" height="100" alt="github">
+<a href="https://github.com/doubleyip/"><img src="/images/icons/github-icon-white.png" width="100" height="100" alt="github" background-color="red">
 <a href="https://www.linkedin.com/in/simon-yip-926789142/"><img src="/images/icons/linkedin-original.svg" width="100" height="100" alt="LinkedIn">
 
 
