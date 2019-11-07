@@ -1,7 +1,3 @@
-<head>
-	<link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
-</head>
-
 <img src="/images/pfp.png" width="200" height="200">
 
 # About
@@ -65,7 +61,8 @@ Developed for the final interview process for the NYC Tech Talent Pipeline
 
 
 # Links
-<i class="devicon-github-plain" width="50" height="50" alt="github"></i><a href="https://www.linkedin.com/in/simon-yip-926789142/"><img src="/images/icons/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
+<a href="https://www.github.com/doubleyip/"><img src="/images/icons/github-icon-white" width="50" height="50" alt="github">
+<a href="https://www.linkedin.com/in/simon-yip-926789142/"><img src="/images/icons/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
 
 
 # Contact Me
