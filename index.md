@@ -59,10 +59,9 @@ Developed for the final interview process for the NYC Tech Talent Pipeline
 
 <img src="/images/icons/mysql-plain.svg" width="100" height="100"> <img src="/images/icons/oracle-original.svg" width="100" height="100">
 
-
 # Links
-<a href="https://www.github.com/doubleyip"><img src="/images/icons/github-icon-white.jpg" width="50" height="50" alt="github">
-<a href="https://www.linkedin.com/in/simon-yip-926789142"><img src="/images/icons/linkedin-original.svg" width="50" height="50" alt="LinkedIn">
+<a href="https://www.github.com/doubleyip"><img src="/images/icons/github-icon-white.jpg" width="50" height="50" alt="github"></a>
+<a href="https://www.linkedin.com/in/simon-yip-926789142"><img src="/images/icons/linkedin-original.svg" width="50" height="50" alt="LinkedIn"></a>
 
 
 # Contact Me
