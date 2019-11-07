@@ -53,7 +53,6 @@ Developed for the final interview process for the NYC Tech Talent Pipeline
 <img src="/images/icons/html5-plain-wordmark.svg" width="100" height="100"><img src="/images/icons/css3-plain-wordmark.svg" width="100" height="100">
 <img src="/images/icons/nodejs-plain.svg" width="100" height="100">
 <img src="/images/icons/heroku-plain-wordmark.svg" width="100" height="100">
-<img src="/images/icons/tensorflow.png" width="10%" height="10%">
 
 
 # Database Management
