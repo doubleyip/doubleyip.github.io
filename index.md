@@ -9,7 +9,7 @@ Currently, I am excited to become a Full Stack Engineer and one day hope to deve
 
 I have a Bachelor's Degree with a Major in Computer Science and a minor in Mathematics from CUNY Hunter College.
 
-During my time at Hunter College I gained academic experience using C++ for Data Structures and Algorithms and other Computer Science fundamentals.
+During my time at Hunter College I gained experience using C++ for Data Structures and Algorithms and other Computer Science fundamentals.
 My coursework also involved programming in C for Computer Architecture and Unix Tools, and LISP for my Artificial Intelligence course. 
 
 I completed Java Full Stack training with Quintrix Solutions using Java, J2EE and the Spring MVC framework.
@@ -31,7 +31,7 @@ Final Project for Natural Language Processing (Language Tools) Course
 
 ## [Stock Portfolio App](./stockport.md)
 
-Basic web app that allows users to buy and sell stocks in real time using the [IEX Ap](ihttps://iexcloud.io/docs/api/)
+Basic web app that allows users to buy and sell stocks in real time using the [IEX Api](ihttps://iexcloud.io/docs/api/)
 
 
 # Programming Languages and Frameworks
@@ -40,7 +40,7 @@ Basic web app that allows users to buy and sell stocks in real time using the [I
 <img src="/images/icons/java-original-wordmark.svg" width="100" height="100">
 <img src="/images/icons/javascript-plain.svg" width="100" height="100">
 <img src="/images/icons/python-original.svg" width="100" height="100">
-<img src="/images/icons/lisp.png">
+<img src="/images/icons/lisp.png" width="110" height="110">
 
 
 # Web Technologies and Frameworks
@@ -56,10 +56,9 @@ Basic web app that allows users to buy and sell stocks in real time using the [I
 
 
 # Links
+<a href="https://github.com/doubleyip/"><img src="/images/icons/github-original.svg" width="100" height="100" alt="github">
+<a href="https://www.linkedin.com/in/simon-yip-926789142/"><img src="/images/icons/linkedin-original.svg" width="100" height="100" alt="LinkedIn">
 
-[Github](https://github.com/doubleyip)
-
-[LinkedIn](https://www.linkedin.com/in/simon-yip-926789142/)
 
 # Contact Me
 
