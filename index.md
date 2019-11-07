@@ -1,3 +1,7 @@
+<head>
+	<link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+</head>
+
 <img src="/images/pfp.png" width="200" height="200">
 
 # About
@@ -67,5 +71,7 @@ Developed for the final interview process for the NYC Tech Talent Pipeline
 
 
 # Contact Me
+
+<i class="devicon-github-plain"></i>
 
 syip428@gmail.com
