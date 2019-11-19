@@ -4,7 +4,7 @@
 
 I am an aspiring Software Engineer with a passion for solving complex problems through the use of topics such as Algorithms and Machine Learning. 
 I am a self-starter with a drive to use the most efficient technology stack or tools for the job and the adaptability to learn them straightaway. 
-Currently, I am excited to become a Full Stack Engineer and one day hope to develop apps using Artificial Intelligence and Natural Language Process. 
+Currently, I am excited to become a Full Stack Engineer and one day hope to develop apps using Artificial Intelligence and Natural Language Processing. 
 
 I have a Bachelor's Degree with a Major in Computer Science and a Minor in Mathematics from CUNY Hunter College.
 
