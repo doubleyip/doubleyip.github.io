@@ -58,7 +58,8 @@ Developed for the final interview process for the NYC Tech Talent Pipeline
 
 # Web Technologies and Frameworks
 
-<img src="/images/icons/html5-plain-wordmark.svg" width="100" height="100"><img src="/images/icons/css3-plain-wordmark.svg" width="100" height="100">
+<img src="/images/icons/html5-plain-wordmark.svg" width="100" height="100">
+<img src="/images/icons/css3-plain-wordmark.svg" width="100" height="100">
 <img src="/images/icons/nodejs-plain.svg" width="100" height="100">
 <img src="/images/icons/heroku-plain-wordmark.svg" width="100" height="100">
 
@@ -70,7 +71,7 @@ Developed for the final interview process for the NYC Tech Talent Pipeline
 # Database Management
 
 <img src="/images/icons/oracle-original.svg" width="100" height="100">
-<img src="/images/icons/mysql-plain.svg" width="100" height="100"> <img src="/images/icons/oracle-original.svg" width="100" height="100">
+<img src="/images/icons/mysql-plain.svg" width="100" height="100">
 
 # Links
 <a href="https://www.github.com/doubleyip"><img src="/images/icons/github-icon-white.jpg" width="50" height="50" alt="github"></a>
