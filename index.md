@@ -49,7 +49,7 @@ Developed for the final interview process for the NYC Tech Talent Pipeline
 
 <img src="/images/icons/cplusplus-plain.svg" width="100" height="100">
 <img src="/images/icons/csharp-plain.svg" width="100" height="100">
-<img src="/images/icons/java-original-wordmark.svg" width="100" height="100">
+<img src="/images/icons/c-plain.svg" width="100" height="100">
 <img src="/images/icons/java-original-wordmark.svg" width="100" height="100">
 <img src="/images/icons/javascript-plain.svg" width="100" height="100">
 <img src="/images/icons/python-original.svg" width="100" height="100">
