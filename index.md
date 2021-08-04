@@ -3,6 +3,7 @@
 # About
 
 I am a Software Engineer with a passion for solving complex problems and an aspiration to become an engineer involved in Artificial Intelligence, Machine Learning, and Natural Language Processing. I currently work at Fidelity National Information Services where I am a SME (Subject Matter Expert) of Sisense. Sisense is a Business Intelligence product under FIS's Wealth and Management project that compiles client data and presents it in an scalable and organized manner. 
+
 My responsibilities include:
 - Developing features and enhancements for Sisense using C#, ASP.net, API's and other web technologies
 - Designing Sisense reports from a front-end perspective and implementing it in code
