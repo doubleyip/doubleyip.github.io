@@ -2,9 +2,14 @@
 
 # About
 
-I am an aspiring Software Engineer with a passion for solving complex problems through the use of topics such as Algorithms and Machine Learning. 
-I am a self-starter with a drive to use the most efficient technology stack or tools for the job and the adaptability to learn them straightaway. 
-Currently, I am excited to become a Full Stack Engineer and one day hope to develop apps using Artificial Intelligence and Natural Language Processing. 
+I am a Software Engineer with a passion for solving complex problems and an aspiration to become an engineer involved in Artificial Intelligence, Machine Learning, and Natural Language Processing. I currently work at Fidelity National Information Services where I am a SME (Subject Matter Expert) of Sisense. Sisense is a Business Intelligence product under FIS's Wealth and Management project that compiles client data and presents it in an scalable and organized manner. 
+My responsibilities include:
+- Developing features and enhancements for Sisense using C#, ASP.net, API's and other web technologies
+- Designing Sisense reports from a front-end perspective and implementing it in code
+- Optimizing queries for transfering data from FIS's database to Sisense's data containers called Elasticubes
+- Creating a proof-of-concept for the Linux Version of Sisense and writing a runbook for its deployment to performance testing servers
+- Troubleshooting and resolving bugs in production
+
 
 I have a Bachelor's Degree with a Major in Computer Science and a Minor in Mathematics from CUNY Hunter College.
 
